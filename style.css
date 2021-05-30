@@ -1,0 +1,44 @@
+.header{
+    background-color:rgb(27, 206, 238);
+    font-size: xx-large;
+    font-weight: 900;
+    font-style: italic;
+    border-radius: 20px ;
+   text-align: center;
+   margin-top: 1px;
+  
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color:hotpink;
+    font-style: oblique;
+}
+
+.header2{
+    background-color:rgb(27, 206, 238);
+    font-size: large;
+    font-weight: 900;
+    font-style: italic;
+    border-radius: 20px ;
+   text-align: center;
+   margin-bottom: 50px;
+}
+
+.origami{
+
+
+     text-align: center;
+    border-radius: 20px ;
+    background-color: white;
+    width: 310px;
+    font-family: fantasy;
+    margin-bottom: 100px;
+}
+
+.page{
+
+    background-color: black;
+}
